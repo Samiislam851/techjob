@@ -1,0 +1,22 @@
+[
+    {
+      "logo": "/images/accounts.png",
+      "sector": "Accounts",
+      "number": 200
+    },
+    {
+        "logo": "/images/marketing.png",
+      "sector": "Marketing",
+      "number": 150
+    },
+    {
+        "logo": "/images/chip.png",
+      "sector": "Data Analytics",
+      "number": 175
+    },
+    {
+        "logo": "/images/business.png",
+      "sector": "Project Management",
+      "number": 125
+    }
+  ]

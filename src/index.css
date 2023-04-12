@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header,.width {
+  max-width: 1200px !important;
+  margin: auto;
+  /* border: 1px solid blue; */
+}
+
+.header {
+  background-color: #F9F9FF;
+}
+
+.button {
+  @apply bg-purple-600 p-3 px-5 rounded-lg text-xl text-white font-semibold hover:bg-purple-500 transition duration-500
+}
+
+.active {
+  @apply text-purple-600
+}
